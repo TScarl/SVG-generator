@@ -1,4 +1,4 @@
-const shapes = require("./lib/shapes.js");
+const {Circle, Triangle, Square} = require("./lib/shapes.js");
 const generateLogo = require("./lib/generateLogo.js");
 const runPrompts = require("./lib/prompts.js").runPrompts()
 const fs = require("fs");
