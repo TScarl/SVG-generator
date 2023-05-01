@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="300" viewBox="0 0 200 300">
-  <circle cx="100" cy="100" r="100" style="fill:red; stroke:red; stroke-width:5;"/>
-</svg>
+  <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" x="-100" y="-50">
+          <rect width="300" height="200" style="transform: translate(-150px, -100px);" fill="blue" stroke="green" stroke-width="5"/>
+        </svg>
